@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+    <style>
+      #orange{
+          color:orange;
+          font-size:30px;
+      }
+    </style>
+    <body>
+      <p>Apple</p>
+      <p>Banana</p>
+      <p id="orange">Orange</p>
+      <h1>Fruits</h1>
+        
+    </body>
+</html>
